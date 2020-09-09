@@ -1,10 +1,8 @@
 ---
-name: TODO Related
+name: TODO
 about:  TODO related
-title: "[TODO]"
-labels: "TODO, TRIAGE"
-assignees: ''
-
+title: "[TODO] "
+labels: TODO, TRIAGE
 ---
 **Commit Hash**
 

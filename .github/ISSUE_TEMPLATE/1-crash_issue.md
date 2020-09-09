@@ -1,10 +1,8 @@
 ---
-name: Crash Related
+name: Crash
 about:  Crash related
-title: "[CRASH]"
-labels: "CRASH, TRIAGE"
-assignees: ''
-
+title: "[CRASH] "
+labels: CRASH, TRIAGE
 ---
 **Commit Hash**
 

@@ -1,10 +1,8 @@
 ---
-name: Continuous Integration Related
+name: Continuous Integration
 about: Continuous integration build process related
-title: "[CI]"
-labels: "CI, TRIAGE"
-assignees: ''
-
+title: "[CI] "
+labels: CI, TRIAGE
 ---
 **Commit Hash**
 

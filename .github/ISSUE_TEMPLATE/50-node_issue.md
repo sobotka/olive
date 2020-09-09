@@ -1,10 +1,8 @@
 ---
-name: Node / DAG Related
+name: Node / DAG
 about:  Node / DAG related
-title: "[NODES]"
-labels: "NODES, TRIAGE"
-assignees: ''
-
+title: "[NODES] "
+labels: NODES, TRIAGE
 ---
 **Commit Hash**
 

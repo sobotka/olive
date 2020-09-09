@@ -1,10 +1,8 @@
 ---
-name: User Interface / Data Feedback Related
+name: User Interface / Data Feedback
 about:  User Interface feedback with internal data model / sync related
-title: "[UI DATA FEEDBACK]"
-labels: "UI DATA FEEDBACK, TRIAGE"
-assignees: ''
-
+title: "[UI DATA FEEDBACK] "
+labels: UI DATA FEEDBACK, TRIAGE
 ---
 **Commit Hash**
 

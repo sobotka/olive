@@ -1,10 +1,8 @@
 ---
-name: CLI Related
+name: CLI
 about: Command line input / output related
-title: "[CLI]"
-labels: "CLI, TRIAGE"
-assignees: ''
-
+title: "[CLI] "
+labels: CLI, TRIAGE
 ---
 **Commit Hash**
 

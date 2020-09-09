@@ -1,10 +1,8 @@
 ---
-name: Audio IO Related
+name: Audio IO
 about:  Audio input / output related
-title: "[AUDIOIO]"
-labels: "AUDIOIO, TRIAGE"
-assignees: ''
-
+title: "[AUDIOIO] "
+labels: AUDIOIO, TRIAGE
 ---
 **Commit Hash**
 

@@ -1,10 +1,8 @@
 ---
-name: Cache Update / Refresh Related
+name: Cache Update / Refresh
 about:  Cache update / refresh related
-title: "[CACHE]"
-labels: "CACHE, TRIAGE"
-assignees: ''
-
+title: "[CACHE] "
+labels: CACHE, TRIAGE
 ---
 **Commit Hash**
 

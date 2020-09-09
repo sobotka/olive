@@ -1,10 +1,8 @@
 ---
-name: Codec Related
+name: Codec
 about: Codec input / output related
-title: "[CODEC]"
-labels: "CODEC, TRIAGE"
-assignees: ''
-
+title: "[CODEC] "
+labels: CODEC, TRIAGE
 ---
 **Commit Hash**
 

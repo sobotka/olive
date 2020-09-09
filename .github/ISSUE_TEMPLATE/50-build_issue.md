@@ -1,10 +1,8 @@
 ---
-name: Build Related
+name: Build
 about:  Compile / link related
-title: "[BUILD]"
-labels: "BUILD, TRIAGE"
-assignees: ''
-
+title: "[BUILD] "
+labels: BUILD, TRIAGE
 ---
 **Commit Hash**
 

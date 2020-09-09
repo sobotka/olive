@@ -1,10 +1,8 @@
 ---
-name: OpenGL Related
+name: OpenGL
 about:  OpenGL related
-title: "[OPENGL]"
-labels: "OPENGL, TRIAGE"
-assignees: ''
-
+title: "[OPENGL] "
+labels: OPENGL, TRIAGE
 ---
 **Commit Hash**
 

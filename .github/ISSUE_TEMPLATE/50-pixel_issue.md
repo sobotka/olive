@@ -1,10 +1,8 @@
 ---
-name: Pixel Related
-about:  Pixels related
-title: "[PIXELS]"
-labels: "PIXELS, TRIAGE"
-assignees: ''
-
+name: Pixel / Color
+about:  Pixel or color management related
+title: "[PIXELS] "
+labels: PIXELS, TRIAGE
 ---
 **Commit Hash**
 
