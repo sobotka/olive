@@ -1,6 +1,6 @@
 ---
 name: Crash
-about:  Crash related
+about:  Report crash / segfault
 title: "[CRASH] "
 labels: CRASH, TRIAGE
 ---

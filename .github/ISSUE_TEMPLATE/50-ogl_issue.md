@@ -1,6 +1,6 @@
 ---
 name: OpenGL
-about:  OpenGL related
+about:  OpenGL renderer related
 title: "[OPENGL] "
 labels: OPENGL, TRIAGE
 ---

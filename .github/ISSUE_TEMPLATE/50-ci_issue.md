@@ -1,6 +1,6 @@
 ---
 name: Continuous Integration
-about: Continuous integration build process related
+about: CI build process related
 title: "[CI] "
 labels: CI, TRIAGE
 ---

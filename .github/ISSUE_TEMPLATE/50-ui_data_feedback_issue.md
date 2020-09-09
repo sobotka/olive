@@ -1,6 +1,6 @@
 ---
 name: User Interface / Data Feedback
-about:  User Interface feedback with internal data model / sync related
+about:  UI feedback with internal data model / sync related
 title: "[UI DATA FEEDBACK] "
 labels: UI DATA FEEDBACK, TRIAGE
 ---

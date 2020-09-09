@@ -1,6 +1,6 @@
 ---
 name: Node / DAG
-about:  Node / DAG related
+about:  Node graph related
 title: "[NODES] "
 labels: NODES, TRIAGE
 ---
